@@ -15,6 +15,21 @@ print(current.head())
 print(current.info())
 
 '''---------------------------------------------------------------------------------------------'''
+# new DF with name + price
+current_prices = current[['name', 'price']]
+
+# setting price as index
+current_prices = current_prices.set_index(['price'], drop = True)
+
+# sorting values by price descending
+current_prices = current_prices.sort_values(['price'], ascending=False)
+
+# loc'ing first 10 coins
+current_prices = current_prices.iloc[:10]
+
+print(current_prices)
+
+'''---------------------------------------------------------------------------------------------'''
 
 # new DF with market cap + id + name
 mkt_cap_raw = current[['name', 'id', 'market_cap']]
@@ -44,7 +59,6 @@ ax.set_xlabel('')
 # setting y label
 ax.set_ylabel('% share')
 
-plt.close()
 plt.show()
 
 '''----------------------------------------------------------------------------------------------'''
@@ -88,7 +102,6 @@ ax.set_xlabel('')
 # adjusting bottom margin
 plt.subplots_adjust(bottom=0.13)
 
-plt.close()
 plt.show()
 
 '''----------------------------------------------------------------------------------------------'''
@@ -127,21 +140,4 @@ ax.set_xlabel('')
 # adjusting bottom margin
 plt.subplots_adjust(bottom=0.14)
 
-plt.close()
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
