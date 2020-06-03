@@ -10,12 +10,9 @@ The first table below shows the prices of the top 10 most expensive coins. Funny
 
 Graphing the change in price over time could be a good update to make in a future version.
 
-price
-Bitcoin: 9558.551637
-
-Maker: 471.141888
-
-Bitcoin Cash: 281.029003
+1. Bitcoin: 9558.551637
+2. Maker: 471.141888
+3. Bitcoin Cash: 281.029003
 Ethereum: 168.688634
 Bitcoin SV: 128.391324
 Dash: 81.019993 
