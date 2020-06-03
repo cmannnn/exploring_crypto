@@ -27,7 +27,12 @@ Looking into Figure_1 you can see this is definitely the case.
 
 On 08-30-2019 Bitcoin's market cap was 76.5% of all 100 crypto coins. The second largest coin Ethereum, which totalled a whopping 7.6%. In other words, Bitcoin is by far the largest coin and controls a massive amount of market cap.
 
-What other characteristics are crypto coins known for? Volatility. With some data on how volatile the coins were at that point in time, this was possible to represent in a graph. Figure_2 shows the top 10 % change in coins prices based
+What other characteristics are crypto coins known for? Volatility. With some data on how volatile the coins were at that point in time, this was possible to represent in a graph. Figure_2 shows the top 10 coins with the largest price % changes in the last 24 hours.
+
+The graph on the left reveals some shocking statistics. The coin Wanchain, shot up over 21% in the prior 24 hours. Aurora also did pretty well that day raising almost 17% in 24 hours. On the flip side, the biggest loser on 08-30-2019 was a coin called ICON that lost -3.88%. Coin BitShares took second biggest loser, erasing -3.81% of its value. Is betting on random coins a viable investment tactic? It may seem to be if the largest single day difference between the biggest winner Wanchain and the biggest loser ICON is ~17%...
+
+
+
 
 
 
