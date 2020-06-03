@@ -82,7 +82,7 @@ plt.style.use('seaborn-bright')
 fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(13, 7))
 
 # setting the main title and shared y label
-fig.suptitle('8/30/2019: Biggest Winner/Loser over 24 Hours', fontsize=30)
+fig.suptitle('8/30/2019: Biggest Winners/Losers over 24 Hours', fontsize=30)
 axes[0].set_ylabel('% change')
 
 # plotting volatility_24h top 10 winners
@@ -120,7 +120,7 @@ plt.style.use('seaborn-bright')
 fig, axes = plt.subplots(nrows=1, ncols=2, figsize=(13, 7))
 
 # setting the main title and shared y label
-fig.suptitle('8/30/2019: Biggest Winner/Loser over 7 days', fontsize=30)
+fig.suptitle('8/30/2019: Biggest Winners/Losers over 7 days', fontsize=30)
 axes[0].set_ylabel('% change')
 
 # plotting volatility_7d top 10 winners
