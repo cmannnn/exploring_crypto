@@ -10,17 +10,17 @@ The first table below shows the prices of the top 10 most expensive coins. Funny
 
 Graphing the change in price over time could be a good update to make in a future version.
 
-    price                    
-1. Bitcoin: 9558.551637
-2. Maker: 471.141888
-3. Bitcoin Cash: 281.029003
-4. Ethereum: 168.688634
-5. Bitcoin SV: 128.391324
-6. Dash: 81.019993 
-7. Monero: 67.641131 
-8. Litecoin: 64.349090 
-9. Zcash: 44.863475 
-10. Decred:22.798488 
+price
+Bitcoin: 9558.551637
+Maker: 471.141888
+Bitcoin Cash: 281.029003
+Ethereum: 168.688634
+Bitcoin SV: 128.391324
+Dash: 81.019993 
+Monero: 67.641131 
+Litecoin: 64.349090 
+Zcash: 44.863475 
+Decred: 22.798488 
 
 
 
