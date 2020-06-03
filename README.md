@@ -6,20 +6,22 @@ Here is a look into historical crypto data from 08-30-2019. This is the most cur
 The data was retrieved from CoinMarketCap's API. CoinMarketCap is a highly referenced crypto-asset tracking website commonly cited by CNBC, Bloomberg, and crypto enthausists across the world. The CoinMarketCap API does require an API key, which can be obtained by signing up for a free account from their website here: https://coinmarketcap.com/api/. Please refer to the importing_crypto.py file for step by step insturction on obtaining the requested data.
 
 # lets get into the data:
-The first table below shows the prices of the top 10 most expensive coins. Funny enough Bitcoin's price at 9,558.551637 is right around where it stands today (06-2-2020) at a current price of 9,522.45.
+The first table below shows the prices of the top 10 most expensive coins. Funny enough Bitcoin's price at 9,558.551637 is right around where it stands today (06-2-2020) at a current price of 9,522.45. 
 
 Graphing the change in price over time could be a good update to make in a future version.
 
 1. Bitcoin: 9558.551637
 2. Maker: 471.141888
 3. Bitcoin Cash: 281.029003
-Ethereum: 168.688634
-Bitcoin SV: 128.391324
-Dash: 81.019993 
-Monero: 67.641131 
-Litecoin: 64.349090 
-Zcash: 44.863475 
-Decred: 22.798488 
+4. Ethereum: 168.688634
+5. Bitcoin SV: 128.391324
+6. Dash: 81.019993 
+7. Monero: 67.641131 
+8. Litecoin: 64.349090 
+9. Zcash: 44.863475 
+10. Decred: 22.798488 
+
+Bitcoins price is much much higher than all the other 100 crypto coins research. Does their market cap represent a similar finding?
 
 
 
