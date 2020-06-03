@@ -12,7 +12,9 @@ Graphing the change in price over time could be a good update to make in a futur
 
 price
 Bitcoin: 9558.551637
+
 Maker: 471.141888
+
 Bitcoin Cash: 281.029003
 Ethereum: 168.688634
 Bitcoin SV: 128.391324
