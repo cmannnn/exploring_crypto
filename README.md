@@ -23,6 +23,8 @@ Graphing the change in price over time could be a good update to make in a futur
 
 Bitcoins price is much much higher than all the other 100 crypto coins research. Does their market cap represent a similar finding?
 
+Looking into Figure_1 you can see this is definitely the case. On 08-30-2019 Bitcoin's market cap was 76.5% of all 100 crypto coins. The second largest coin Ethereum, which totalled a whopping 7.6%. In other words, Bitcoin is by far the largest coin.
+
 
 
 
