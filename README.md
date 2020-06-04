@@ -33,17 +33,6 @@ The graph on the left reveals some shocking statistics. Wanchain, shot up over 2
 
 Similar to crypto coins, stocks can move up or down 10% on any given day. Lets see what the prices of these coins have done over a week period. Figure_3 shows the biggest winners and losers over a week timeframe. Here we see a different story. The biggest loser was Grin, losing -25.56 of its value, while the biggest winner was Synthetix Network Token adding +28.62%.
 
-Looking at the graph of the biggest losers on the left, we see the top 9 biggest losers all lost 20% or more of their value over this particular weeks period, where only one coin gained 20% of its value. Also note in the top 10 winner over the week time frame features Wanchain, our biggest one day winner, which we stated earlier gained 21%. However, for the week time frame, Wanchain only gained a much more moderate +3.69%. This paints a little clearer of a picture on our new investment strategy. Wanchain for the win^1.
+Looking at the graph of the biggest losers on the left, we see the top 9 biggest losers all lost 20% or more of their value over this particular weeks period, where only one coin gained 20% of its value. Also note in the top 10 winner over the week time frame features Wanchain, our biggest one day winner, which we stated earlier gained 21%. However, for the week time frame, Wanchain only gained a much more moderate +3.69%. This paints a little clearer of a picture on our new investment strategy. Wanchain for the win1.
 
 1 WARNING: The cryptocurrency market is exceptionally volatile and any money you put in might disappear into thin air. Cryptocurrencies mentioned here might be scams similar to Ponzi Schemes or have many other issues (overvaluation, technical, etc.). Please do not mistake this for investment advice.
-
-
-
-
-
-
-
-
-
-
-
