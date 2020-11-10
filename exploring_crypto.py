@@ -109,7 +109,6 @@ plt.show()
 # subsetting volatility DF with 7d data
 volatility_7d = volatility['percent_change_7d']
 
-
 # sorting 7d data by descending values
 volatility_7d = volatility_7d.sort_values(ascending=True)
 
