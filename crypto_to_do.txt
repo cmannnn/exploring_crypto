@@ -1,0 +1,24 @@
+python wrapper: https://github.com/man-c/pycoingecko
+
+to do:
+- use CoinGecko API to import market data
+- cross reference Coinbase tradable coins
+- auto collection CSV?
+	- how much time between each API call?
+- analyze/visualize tradable coins
+	- link with Coinbase for automated trades?
+- RNN? (LSTM/GRU?)
+	- what are we trying to predict? 
+		- up/down?
+		- price?
+		- % increase/decrease?
+		- optimizer: RMSprop?
+- create real-time dashboard to be monitored?
+	- heroku
+	- indicators
+
+steps:
+- import data
+- normalize! (MinMaxScaler)
+- train/test split
+- LSTM (pytorch)
